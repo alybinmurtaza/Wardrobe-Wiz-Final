@@ -1,7 +1,7 @@
-# WardrobeWhiz
+# WardrobeWiz
 
 An AI-powered personal wardrobe assistant that helps users generate outfit recommendations from their own clothing items using CLIP embeddings, FAISS vector search, and rule-based styling logic — with a full React frontend.
-
+   
 ---
 
 ## Features
@@ -13,7 +13,7 @@ An AI-powered personal wardrobe assistant that helps users generate outfit recom
 - **Surprise Me** — auto-generate random compatible outfit combinations
 - **Feedback Loop** — like/dislike/skip/save outfits; preferences re-rank future suggestions automatically
 - **Style Profile** — onboarding quiz stores preferred styles, colors, occasions, and Eastern/Western bias
-- **React Frontend** — full dashboard UI with wardrobe management, outfit history, analytics, and recommendations
+- **React Frontend** — full dashboard UI with wardrobe management, outfit history, analytics, and recommendations.
 
 ---
 
