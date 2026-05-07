@@ -104,7 +104,7 @@ POST /wardrobe/reclassify/{user_id}
 
 ---
 
-## API Overview
+## API Overview:
 
 ### Frontend API (used by the React app)
 
